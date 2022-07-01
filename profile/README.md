@@ -10,9 +10,9 @@ Pragmasoft is looking to expand our team with active and smart young members, wh
 
 # <a id='contacts'>Contact us</a>
 
-[Email](mailto:info@pragmasoft.com.ua)
-[Telegram](https://t.me/pragmasoft)
-[Linked In](https://www.linkedin.com/company/pragmasoft-ukraine/)
-[Github](https://github.com/pragmasoft-ukraine)
-[Facebook](https://www.facebook.com/pages/Pragmasoft/340275132655051)
-[DOU](https://jobs.dou.ua/companies/pragmasoft/)
+* [Email](mailto:info@pragmasoft.com.ua)
+* [Telegram](https://t.me/pragmasoft)
+* [Linked In](https://www.linkedin.com/company/pragmasoft-ukraine/)
+* [Github](https://github.com/pragmasoft-ukraine)
+* [Facebook](https://www.facebook.com/pages/Pragmasoft/340275132655051)
+* [DOU](https://jobs.dou.ua/companies/pragmasoft/)
